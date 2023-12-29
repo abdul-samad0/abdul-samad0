@@ -2,12 +2,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/7Jgt9Boex0vIjmfcX6/giphy.gif" />
 
-I'm a computer science student who is passionate about solving problems. I also take interest in creative actives like photography and artistic things like dance.
+I'm a Software Engineer who is passionate about solving problems. I also take interest in creative actives like photography and artistic things like dance.
 
-- 🔭 I’m currently a CS student at University of Engineering & Technology Lahore.
-- 📚 I’m currently learning Python Game Development.
-- 👯 I’m looking for a software development internship. 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🔭 CS Grad UET, Lahore.
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
