@@ -137,7 +137,7 @@ Full Stack Developer • Frontend Architect • React & Django Specialist
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/abdul-samad0">
+<a href="https://www.linkedin.com/in/abdul0samad1/">
 
 <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Samad-blue?style=for-the-badge&logo=linkedin"/>
 
